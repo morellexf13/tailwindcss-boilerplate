@@ -21,8 +21,33 @@
   </sup>
 </div>
 
+<img alt='Website Login' src="./src/assets/screenshots/login.png" />
+
+<img alt='Website Home' src="./src/assets/screenshots/home.png" />
+
 <br>
 
 ## 💎 Features
 
 - Based on [⚡️Vite Tuto](https://github.com/morellexf26/vite-tuto.git) boilerplate.
+
+<br>
+
+## 🚀 Install
+
+Install it locally in your project
+
+```bash
+npm install
+
+npm run dev
+```
+
+<br>
+
+
+## 🧪 Unit tests
+
+```
+npm run test
+```
