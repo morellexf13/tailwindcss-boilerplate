@@ -16,6 +16,7 @@
 
 [![Version](https://img.shields.io/github/v/tag/morellexf26/tailwind-tuto?label=%20&style=for-the-badge)](https://github.com/morellexf26/tailwind-tuto/releases)
 [![License](https://img.shields.io/badge/-MIT-f56565.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/tailwind-tuto/blob/main/LICENSE)
+[![Package Monthly Downloads](https://img.shields.io/npm/dm/tailwind-tuto?label=%20&style=for-the-badge)](https://www.npmjs.com/package/tailwind-tuto)
 [![Docs](https://img.shields.io/badge/-Docs-blue.svg?style=for-the-badge)](https://tailwindcss.com)
 
   </sup>

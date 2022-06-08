@@ -1,8 +1,8 @@
 {
   "name": "tailwind-tuto",
-  "description": "A Vue 3 Starter Boilerplate with TailwindCSS, Vue Router 4, Pinia 2, Vite 2, Sass, Axios, Jest and More.",
+  "description": "A Vue 3 Starter Boilerplate with TailwindCSS 3, Vue Router 4, Pinia 2, Vite 2, Sass, Axios, Jest and More.",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "keywords": [
     "boilerplate",
