@@ -10,7 +10,7 @@
   </h1>
   <sup>
     <br />
-   A Vue 3 Starter Boilerplate with TailwindCSS 3, Vue Router 4, Pinia 2, Vite 2, Sass, Axios, Jest 29 and More.</em>
+   A Vue 3 Starter Boilerplate with TailwindCSS 3, Vue Router 4, Pinia 2, Vite 4, Sass, Axios, Jest 29 and More.</em>
     <br />
     <br />
 
@@ -29,9 +29,18 @@
 
 <br>
 
+Based on [Vue Bolt](https://github.com/morellexf13/vue-bolt.git) boilerplate
 ## 💎 Features
-
-- Based on [Vue Bolt](https://github.com/morellexf13/vue-bolt.git) boilerplate.
+  - 💿 Login session handled by Pinia
+  - ☀️ Pre-defined classes by TailwindCSS
+  - 🎵 Spotify Tracker
+    
+    1- Create a `.env` file in project's root
+    
+    2- Add your Spotify Token as below:
+    ```
+    VITE_SPOTIFY_AUTHORIZATION_BEARER_TOKEN=your_token
+    ```
 
 <br>
 
