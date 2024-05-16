@@ -14,22 +14,14 @@
     <br />
     <br />
 
-[![Build status](https://img.shields.io/github/actions/workflow/status/morellexf13/tailwindcss-boilerplate/build.yml?branch=main&label=%20&logo=github&logoColor=white&style=for-the-badge)](https://github.com/morellexf13/tailwindcss-boilerplate/actions/workflows/build.yml)
 [![Version](https://img.shields.io/github/v/tag/morellexf13/tailwindcss-boilerplate?label=%20&style=for-the-badge)](https://github.com/morellexf13/tailwindcss-boilerplate/releases)
-[![License](https://img.shields.io/badge/-MIT-f56565.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf13/tailwindcss-boilerplate/blob/main/LICENSE)
-[![Package Monthly Downloads](https://img.shields.io/npm/dm/tailwindcss-boilerplate?label=%20&style=for-the-badge)](https://www.npmjs.com/package/tailwindcss-boilerplate)
-[![Docs](https://img.shields.io/badge/-Docs-blue.svg?style=for-the-badge)](https://tailwindcss.com)
 
   </sup>
 </div>
 
-<img alt='Website Login' src="./src/assets/screenshots/login.png" />
-
-<img alt='Website Home' src="./src/assets/screenshots/home.png" />
-
 <br>
 
-Based on [Vue Bolt](https://github.com/morellexf13/vue-bolt.git) boilerplate
+Based on [Vite Boilerplate](https://github.com/morellexf13/vite-boilerplate.git) boilerplate
 ## 💎 Features
   - 💿 Login session handled by Pinia
   - ☀️ Pre-defined classes by TailwindCSS
