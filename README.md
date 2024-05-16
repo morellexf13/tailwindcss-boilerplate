@@ -21,7 +21,8 @@
 
 <br>
 
-Based on [Vite Boilerplate](https://github.com/morellexf13/vite-boilerplate.git) boilerplate
+Based on [Vite Boilerplate](https://github.com/morellexf13/vite-boilerplate.git)
+
 ## 💎 Features
   - 💿 Login session handled by Pinia
   - ☀️ Pre-defined classes by TailwindCSS
