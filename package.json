@@ -1,8 +1,8 @@
 {
-  "name": "tailwind-tuto",
+  "name": "tailwindcss-boilerplate",
   "description": "A Vue 3 Starter Boilerplate with TailwindCSS 3, Vue Router 4, Pinia 2, Vite 5, Sass, Axios, Jest 29 and More.",
   "private": false,
-  "version": "1.1.2",
+  "version": "1.1.3",
   "license": "MIT",
   "keywords": [
     "boilerplate",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/morellexf13/tailwind-tuto.git"
+    "url": "https://github.com/morellexf13/tailwindcss-boilerplate.git"
   },
   "scripts": {
     "dev": "vite",
