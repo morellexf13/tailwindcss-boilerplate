@@ -34,7 +34,7 @@
                   class="font-medium text-gray-500 hover:text-gray-900">Vanilla Tuto</a>
 
                 <a href="https://github.com/morellexf13/vue-bolt" target="_blank"
-                  class="font-medium text-gray-500 hover:text-gray-900">Vue Bolt</a>
+                  class="font-medium text-gray-500 hover:text-gray-900">Vite Boilerplate</a>
 
                 <a href="#" id="btn-logout" v-on:click="logout"
                   class="font-medium text-indigo-600 hover:text-indigo-500">Log out</a>
